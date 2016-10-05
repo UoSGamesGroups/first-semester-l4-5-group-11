@@ -1,7 +1,10 @@
 # Group Project
 **Designer Level 5 - Jordan Marks**
+
 **Designer Level 5 - Thomas Wenman**
+
 **Designer Level 4 - Mark Key**
+
 **Programmer Level 4 - Mohammad Miah**
 
 This is the repository for your group project, keep it neat and well organised with sensible folder structures.
