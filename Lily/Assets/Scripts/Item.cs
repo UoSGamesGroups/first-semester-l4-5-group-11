@@ -2,7 +2,8 @@
 using System.Collections;
 
 [System.Serializable]
-public class Item {
+public class Item
+{
     public string itemName;
     public int itemID;
     public string itemDesc;
@@ -22,8 +23,10 @@ public class Item {
         itemDesc = desc;
         itemType = type;
     }
-        public Item()
-    {
 
+    public Item()
+    {
+        itemID = -1;
     }
 }
+ 

@@ -8,7 +8,7 @@ public class ItemData : MonoBehaviour {
     void Awake()
     {
         items.Add(new Item("Medicine",0,"Helps cure sickness", Item.ItemType.QuestItem));
-        items.Add(new Item("Keys", 1, "Opens a locked door", Item.ItemType.QuestItem));
+        items.Add(new Item("Keys",1, "Opens a locked door", Item.ItemType.QuestItem));
     }
 
 }
